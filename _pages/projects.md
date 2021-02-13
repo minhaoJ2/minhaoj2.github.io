@@ -14,7 +14,7 @@ Deep Learning with Medical Image Analysis
 DARPA SocialSim Project
 ---
 (11/2020 - 01/2021)
-* Worked on on the DARPA project computational simulation of online social behavior project supervised by Prof. Tarek F. Abdelzaher and Prof. Jiawei Han.
+* Worked on the DARPA project computational simulation of online social behavior project supervised by Prof. Tarek F. Abdelzaher and Prof. Jiawei Han.
 * Responsible for a machine learning model implemented by Random Forest as a purpose of prediction.
 
 Brain Tumor Image Segmentation
