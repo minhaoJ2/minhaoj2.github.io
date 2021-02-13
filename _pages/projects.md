@@ -6,7 +6,13 @@ author_profile: true
 ---
 
 {% include base_path %}
+DARPA SocialSim Project
+---
+* Worked on on the DARPA project computational simulation of online social behavior project advised by Prof. Tarek F. Abdelzaher and Prof. Jiawei Han.
+* Responsible for a machine learning model implemented by Random Forest as a purpose of prediction.
+* Constructed models using data mining techniques including BERT, WeSTClass, etc., to collect data from Twitter and YouTube to predict the user activities on these social platforms.
 
-* Spring 2021, [CS/ECE 374: Introduction to Algorithms & Models of Computation](https://courses.engr.illinois.edu/cs374/sp2021), Assistant.
-* Spring 2021, [CS 173: Discrete Structure](https://courses.grainger.illinois.edu/cs173/sp2021/), Assistant.
-* Fall 2020, [CS/ECE 374: Introduction to Algorithms & Models of Computation](https://courses.engr.illinois.edu/cs374/fa2020), Assistant.
+Brain Tumor Image Segmentation
+---
+* Utilized 3D U-net and Variantional Encoder to achive the image segmentation of gliomas from brain MRI images with performance of dice coeffient 0.78 in testing dataset.
+
