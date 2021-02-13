@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
 DARPA SocialSim Project
 ---
 * Worked on on the DARPA project computational simulation of online social behavior project advised by Prof. Tarek F. Abdelzaher and Prof. Jiawei Han.
