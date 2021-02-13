@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior undergraduate student in Computer Science, Math at [University of Illinois at Urbana-Champaign](https://illinois.edu/).
+I am a junior undergraduate student in Computer Science, Mathamatics at [University of Illinois at Urbana-Champaign](https://illinois.edu/).
 
 News!
 ======
