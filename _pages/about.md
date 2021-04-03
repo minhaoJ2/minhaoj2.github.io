@@ -12,5 +12,7 @@ I am a junior undergraduate student in Computer Science, Mathamatics at [Univers
 
 My current research area is in **Graph Mining** and **Deep Learning**. And my exploration interests lie in the intersections of general **Machine Learning** theory, **Data Mining** and **Computer Vision**.
 
+Here is my latest version [CV](https://minhaoj2.github.io/files/CV.pdf).
+
 News!
 ======
