@@ -16,6 +16,6 @@ Here is my latest version [CV](https://minhaoj2.github.io/files/CV.pdf).
 
 News!
 ======
-* <span style="color:red">News!!</span> Our paper "SimulatingOnlineSocialResponse:a Stimulus/response Perspective" has been accpeted by 2021 Winter Simulation Conference (*WSC'2021*)!
-* <span style="color:red">News!!</span> I'm honored to be selected by [Jefferey P. Blahut Memorial Scholarship](https://cs.illinois.edu/about/awards/undergraduate-scholarships-awards/jeffrey-p-blahut-memorial-scholarship) from the Department of Computer Science, University of Illinois at Urbana-Champaign.
-* <span style="color:red">News!!</span> I'm honored to receive Yunni and Maxine Pao Memorial Scholarship from the Grainger College of Engineering, University of Illinois at Urbana-Champaign.
+* <span style="color:red">New!!</span> Our paper "SimulatingOnlineSocialResponse:a Stimulus/response Perspective" has been accpeted by 2021 Winter Simulation Conference (*WSC'2021*)!
+* <span style="color:red">New!!</span> I'm honored to be selected by [Jefferey P. Blahut Memorial Scholarship](https://cs.illinois.edu/about/awards/undergraduate-scholarships-awards/jeffrey-p-blahut-memorial-scholarship) from the Department of Computer Science, University of Illinois at Urbana-Champaign.
+* <span style="color:red">New!!</span> I'm honored to receive Yunni and Maxine Pao Memorial Scholarship from the Grainger College of Engineering, University of Illinois at Urbana-Champaign.
