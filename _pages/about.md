@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student in Computer Science, Mathamatics at [University of Illinois at Urbana-Champaign](https://illinois.edu/). I am fortunated to be working in [Data Mining Group (DMG)](http://dm1.cs.uiuc.edu/) advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/) and advised by Prof. [Sanmi Koyejo](https://sanmi.cs.illinois.edu/).
+I am a senior undergraduate student in Computer Science, Mathamatics at [University of Illinois at Urbana-Champaign](https://illinois.edu/). I am fortunated to be working in [Data Mining Group (DMG)](http://dm1.cs.uiuc.edu/) advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
 
 My current research area is in **Machine Learning** and **Graph Mining**. And my exploration interests lie in the intersections of general **Machine Learning theory**, **Data Mining** and **Deep Learning**.
 
