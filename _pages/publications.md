@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4ncr6IwI5KoJbOBk1XKphtF7puaBPmcg-6M1Ik8VjaNl9Bg8uk4T_hONUaN_lEWGAjFfFwZkUA7sAmWOD_iy-YcyAzow&user=Qzm-cLIAAAAJ)
-# Manuscript
+# 2022
 
 * TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations.\
 **Minhao Jiang**, Xiangchen Song, Jieyu Zhang, Jiawei Han.\
-In The 33rd International Conference in the Web (*WWW'2022*). (Under Review)
+In The 33rd International Conference in the Web (*WWW'2022*).
 
 # 2021
 
