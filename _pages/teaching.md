@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* Spring 2022, [CS/ECE 374: Introduction to Algorithms & Models of Computation](https://courses.engr.illinois.edu/cs374/sp2022/A/), Course Assistant.
 * Fall 2021, [CS/ECE 374: Introduction to Algorithms & Models of Computation](https://courses.engr.illinois.edu/cs374/fa2021/A/), Course Assistant.
 * Spring 2021, [CS/ECE 374: Introduction to Algorithms & Models of Computation](https://courses.engr.illinois.edu/cs374/sp2021), Course Assistant.
 * Spring 2021, [CS 173: Discrete Structure](https://courses.grainger.illinois.edu/cs173/sp2021/), Course Assistant.
