@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minhao Jiang(蒋旻昊)"
+title                    : "Minhao Jiang"
 title_separator          : "-"
 name                     : &name "Minhao Jiang"
 description              : &description "personal description"
