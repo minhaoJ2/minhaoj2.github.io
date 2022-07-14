@@ -5,8 +5,8 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
- 
-
   - title: "Teaching"
     url: /teaching/    
+  - title: "Services"
+    url: /services/
         
