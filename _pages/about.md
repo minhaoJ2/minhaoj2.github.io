@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first year M.S. student in  in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/) working in [Data Mining Group (DMG)](http://dm1.cs.uiuc.edu/) advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). I obtained my B.S. with a dual degree in Computer Science and Mathematics at UIUC.
 
-My current research area is in **Machine Learning** and **Graph Mining**. And my exploration interests lie in the intersections of general **Machine Learning theory**, **Data Mining** and **Deep Learning**.
+My current research area is in **Machine Learning** and **Natural Language Processing**. And my exploration interests lie in the intersections of general **Machine Learning theory**, **Data Mining** and **Deep Learning**.
 
 Here is my latest version [CV](https://minhaoj2.github.io/files/CV.pdf) (maybe not up-to-date).
 
