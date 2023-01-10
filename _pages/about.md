@@ -14,6 +14,10 @@ My current research area is in **Machine Learning** and **Graph Mining**. And my
 
 Here is my latest version [CV](https://minhaoj2.github.io/files/CV.pdf) (maybe not up-to-date).
 
+Academic Services
+======
+* Conference Reviewer: EMNLP 2022, ACL 2023.
+
 News
 ======
 * **[2022.10]** One paper has been accepted by IEEE BIBM 2022 Conference.
