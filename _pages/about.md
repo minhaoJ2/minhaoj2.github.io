@@ -16,7 +16,7 @@ Here is my latest version [CV](https://minhaoj2.github.io/files/CV.pdf) (maybe n
 
 Academic Services
 ======
-* Conference Reviewer: EMNLP 2022, ACL 2023.
+* Conference Reviewer: EMNLP 2022, ACL 2023, KDD 2023.
 
 News
 ======
