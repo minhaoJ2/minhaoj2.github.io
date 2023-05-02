@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4ncr6IwI5KoJbOBk1XKphtF7puaBPmcg-6M1Ik8VjaNl9Bg8uk4T_hONUaN_lEWGAjFfFwZkUA7sAmWOD_iy-YcyAzow&user=Qzm-cLIAAAAJ)
+# 2023
+
+* ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision. [[paper]()]\
+Ming Zhong, Siru Ouyang, **Minhao Jiang**, Vivian Hu, Yizhu Jiao, Xuan Wang and Jiawei Han.\
+In Findings of The 61st Annual Meeting of the Association for Computational Linguistics (*ACL'2023 Findings*)
+
 # 2022
 
 * ReactClass: Cross-Modal Supervision for Subword-Guided Reactant Entity Classification. [[paper]()]\
