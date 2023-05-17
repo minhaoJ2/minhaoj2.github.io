@@ -20,6 +20,7 @@ Academic Services
 
 News
 ======
+* **[2023.5]** One paper was accepted by ACL 2023.
 * **[2022.10]** One paper has been accepted by IEEE BIBM 2022 Conference.
 * **[2022.1]** Our paper "TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations" has been accepted by The Web Conference 2022 (*WWW'2022*)!
 * **[2022.1]** I'm honored to receive Tan Family Education Foundation Scholarship from the Grainger College of Engineering, University of Illinois at Urbana-Champaign.
