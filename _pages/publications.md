@@ -13,7 +13,7 @@ In Findings of The 61st Annual Meeting of the Association for Computational Ling
 
 # 2022
 
-* ReactClass: Cross-Modal Supervision for Subword-Guided Reactant Entity Classification. [[paper]()]\
+* ReactClass: Cross-Modal Supervision for Subword-Guided Reactant Entity Classification. [[paper](https://ieeexplore.ieee.org/document/9995489)]\
 Xuan Wang, Vivian Hu, **Minhao Jiang**, Yu Zhang, Jinfeng Xiao, Danielle Loving, Heng Ji, Martin Burke, and Jiawei Han.\
 In 2022 IEEE Int. Conf. on Bioinformatics and Biomedicine (*BIBM'2022*).
 * TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations. [[paper](https://arxiv.org/abs/2202.04887)][[code](https://github.com/minhaoJ2/TaxoEnrich)]\
