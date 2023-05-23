@@ -7,7 +7,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4ncr6IwI5KoJbOBk1XKphtF7puaBPmcg-6M1Ik8VjaNl9Bg8uk4T_hONUaN_lEWGAjFfFwZkUA7sAmWOD_iy-YcyAzow&user=Qzm-cLIAAAAJ)
 # 2023
 
-* OntoType: Ontology-Guided Fine-Grained Entity Typing with Weak Supervision from Pretrained Language Models.}[[paper](https://arxiv.org/abs/2305.12307)]\
+* OntoType: Ontology-Guided Fine-Grained Entity Typing with Weak Supervision from Pretrained Language Models. [[paper](https://arxiv.org/abs/2305.12307)]\
 Tanay Komarlu, **Minhao Jiang**, Xuan Wang, Jiawei Han.\
 *Preprint*
 * ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision. [[paper]()]\
