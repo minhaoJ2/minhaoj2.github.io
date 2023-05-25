@@ -10,7 +10,7 @@ author_profile: true
 * PromptClass: Weakly-Supervised Text Classification with Prompting Enhanced Noise-Robust Self-Training. [[paper](https://arxiv.org/abs/2305.13723)]\
 Yunyi Zhang, **Minhao Jiang**, Yu Meng, Yu Zhang, Jiawei Han\
 *Preprint*
-* OntoType: Ontology-Guided Fine-Grained Entity Typing with Weak Supervision from Pretrained Language Models. [[paper](https://arxiv.org/abs/2305.12307)]\
+* OntoType: Ontology-Guided and Pre-Trained Language Model Assisted Fine-Grained Entity Typing. [[paper](https://arxiv.org/abs/2305.12307)]\
 Tanay Komarlu, **Minhao Jiang**, Xuan Wang, Jiawei Han.\
 *Preprint*
 * ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision. [[paper]()]\
