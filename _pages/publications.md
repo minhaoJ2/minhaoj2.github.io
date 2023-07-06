@@ -13,7 +13,7 @@ Yunyi Zhang, **Minhao Jiang**, Yu Meng, Yu Zhang, Jiawei Han\
 * OntoType: Ontology-Guided and Pre-Trained Language Model Assisted Fine-Grained Entity Typing. [[paper](https://arxiv.org/abs/2305.12307)]\
 Tanay Komarlu, **Minhao Jiang**, Xuan Wang, Jiawei Han.\
 *Preprint*
-* ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision. [[paper]()]\
+* ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision. [[paper](https://arxiv.org/abs/2307.01448)]\
 Ming Zhong, Siru Ouyang, **Minhao Jiang**, Vivian Hu, Yizhu Jiao, Xuan Wang and Jiawei Han.\
 In Findings of The 61st Annual Meeting of the Association for Computational Linguistics (*ACL'2023 Findings*)
 
