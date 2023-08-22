@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year M.S. student in  in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/) working in [Data Mining Group (DMG)](http://dm1.cs.uiuc.edu/) advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). I obtained my B.S. with a dual degree in Computer Science and Mathematics at UIUC.
+I am a second year M.S. student in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/) working in [Data Mining Group (DMG)](http://dm1.cs.uiuc.edu/) advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). I obtained my B.S. with a dual degree in Computer Science and Mathematics at UIUC.
 
 My current research area is in **Machine Learning** and **Natural Language Processing**. And my exploration interests lie in the intersections of general **Machine Learning theory**, **Data Mining** and **Deep Learning**.
 
 Academic Services
 ======
-* Conference Reviewer: EMNLP 2022, ACL 2023, KDD 2023.
+* Conference Reviewer: EMNLP 2022, ACL 2023, KDD 2023, EMNLP 2023.
 * Workshop Reviewer: AdvML-Frontiers@ICML 2023.
 
 Honors & Awards
