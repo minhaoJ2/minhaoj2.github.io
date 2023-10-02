@@ -8,9 +8,11 @@ author_profile: true
 # 2023
 
 * Reaction Miner: An Integrated System for Chemical Reaction Extraction from Textual Data. (System Demonstration) [[paper]]()\
-Ming Zhong, Siru Ouyang, Yizhu Jiao, Priyanka Kargupta, Leo Luo, Yanzhen Shen, Bobby Zhou, Xianrui Zhong, Xuan Liu, Hongxiang Li, Jinfeng Xiao, **Minhao Jiang**, Vivian Hu, Xuan Wang, Heng Ji, Martin Burke, Huimin Zhao and Jiawei Han. (*EMNLP 2023*)
+Ming Zhong, Siru Ouyang, Yizhu Jiao, Priyanka Kargupta, Leo Luo, Yanzhen Shen, Bobby Zhou, Xianrui Zhong, Xuan Liu, Hongxiang Li, Jinfeng Xiao, **Minhao Jiang**, Vivian Hu, Xuan Wang, Heng Ji, Martin Burke, Huimin Zhao and Jiawei Han.\
+In the Conference on Empirical Methods in Natural Language Processing(*EMNLP'2023*)
 * Geospatial Knowledge Hypercube. (Demo Paper) [[paper]]()\
-Zhaonan Wang, Bowen Jin, Wei Hu, **Minhao Jiang**, Seungyeon Kang, Zhiyuan Li, Sizhe Zhou, Jiawei Han, and Shaowen Wang. (*SIGSPATIAL 2023*)
+Zhaonan Wang, Bowen Jin, Wei Hu, **Minhao Jiang**, Seungyeon Kang, Zhiyuan Li, Sizhe Zhou, Jiawei Han, and Shaowen Wang.\
+In 31st ACM International Conference on Advances in Geographic Information Systems (*SIGSPATIAL'2023*)
 * PromptClass: Weakly-Supervised Text Classification with Prompting Enhanced Noise-Robust Self-Training. [[paper](https://arxiv.org/abs/2305.13723)]\
 Yunyi Zhang, **Minhao Jiang**, Yu Meng, Yu Zhang, Jiawei Han\
 *Preprint*
