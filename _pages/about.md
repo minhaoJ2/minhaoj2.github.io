@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year M.S. student in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/) working in [Data Mining Group (DMG)](http://dm1.cs.uiuc.edu/) advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). I obtained my B.S. with a dual degree in Computer Science and Mathematics at UIUC.
+I am a second-year M.S. student in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/) working in [Data Mining Group (DMG)](http://dm1.cs.uiuc.edu/) advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). I obtained my B.S. with a dual degree in Computer Science and Mathematics at UIUC.
 
 My current research area is in **Machine Learning** and **Natural Language Processing**. And my exploration interests lie in the intersections of general **Machine Learning theory**, **Data Mining** and **Deep Learning**.
 
@@ -26,6 +26,7 @@ Honors & Awards
 
 News
 ======
+* **[2023.10]** Two papers were accepted by EMNLP 2023 and one paper was accepted by SIGSPATIAL 2023.
 * **[2023.5]** One paper was accepted by ACL 2023.
 * **[2022.10]** One paper has been accepted by IEEE BIBM 2022 Conference.
 * **[2022.1]** Our paper "TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations" has been accepted by The Web Conference 2022 (*WWW'2022*)!
