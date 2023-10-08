@@ -7,33 +7,33 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4ncr6IwI5KoJbOBk1XKphtF7puaBPmcg-6M1Ik8VjaNl9Bg8uk4T_hONUaN_lEWGAjFfFwZkUA7sAmWOD_iy-YcyAzow&user=Qzm-cLIAAAAJ)
 # 2023
 
-* Reaction Miner: An Integrated System for Chemical Reaction Extraction from Textual Data. (System Demonstration) [[paper]]()\
+* [Reaction Miner: An Integrated System for Chemical Reaction Extraction from Textual Data]() (System Demonstration)\
 Ming Zhong, Siru Ouyang, Yizhu Jiao, Priyanka Kargupta, Leo Luo, Yanzhen Shen, Bobby Zhou, Xianrui Zhong, Xuan Liu, Hongxiang Li, Jinfeng Xiao, **Minhao Jiang**, Vivian Hu, Xuan Wang, Heng Ji, Martin Burke, Huimin Zhao and Jiawei Han.\
 In the Conference on Empirical Methods in Natural Language Processing (*EMNLP'2023*)
-* PIEClass: Weakly-Supervised Text Classification with Prompting and Noise-Robust Iterative Ensemble Training. [[paper](https://arxiv.org/abs/2305.13723)]\
+* [PIEClass: Weakly-Supervised Text Classification with Prompting and Noise-Robust Iterative Ensemble Training](https://arxiv.org/abs/2305.13723) \
 Yunyi Zhang, **Minhao Jiang**, Yu Meng, Yu Zhang, Jiawei Han\
 In the Conference on Empirical Methods in Natural Language Processing (*EMNLP'2023*)
-* Geospatial Knowledge Hypercube. (Demo Paper) [[paper]]()\
+* [Geospatial Knowledge Hypercube]() (Demo Paper)\
 Zhaonan Wang, Bowen Jin, Wei Hu, **Minhao Jiang**, Seungyeon Kang, Zhiyuan Li, Sizhe Zhou, Jiawei Han, and Shaowen Wang.\
 In 31st ACM International Conference on Advances in Geographic Information Systems (*SIGSPATIAL'2023*)
-* OntoType: Ontology-Guided and Pre-Trained Language Model Assisted Fine-Grained Entity Typing. [[paper](https://arxiv.org/abs/2305.12307)]\
+* [OntoType: Ontology-Guided and Pre-Trained Language Model Assisted Fine-Grained Entity Typing](https://arxiv.org/abs/2305.12307)\
 Tanay Komarlu, **Minhao Jiang**, Xuan Wang, Jiawei Han.\
 *Preprint*
-* ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision. [[paper](https://arxiv.org/abs/2307.01448)]\
+* [ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision](https://arxiv.org/abs/2307.01448)\
 Ming Zhong, Siru Ouyang, **Minhao Jiang**, Vivian Hu, Yizhu Jiao, Xuan Wang and Jiawei Han.\
 In Findings of The 61st Annual Meeting of the Association for Computational Linguistics (*ACL'2023 Findings*)
 
 # 2022
 
-* ReactClass: Cross-Modal Supervision for Subword-Guided Reactant Entity Classification. [[paper](https://ieeexplore.ieee.org/document/9995489)]\
+* [ReactClass: Cross-Modal Supervision for Subword-Guided Reactant Entity Classification](https://ieeexplore.ieee.org/document/9995489)\
 Xuan Wang, Vivian Hu, **Minhao Jiang**, Yu Zhang, Jinfeng Xiao, Danielle Loving, Heng Ji, Martin Burke, and Jiawei Han.\
 In 2022 IEEE Int. Conf. on Bioinformatics and Biomedicine (*BIBM'2022*).
-* TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations. [[paper](https://arxiv.org/abs/2202.04887)][[code](https://github.com/minhaoJ2/TaxoEnrich)]\
+* [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations](https://arxiv.org/abs/2202.04887)\
 **Minhao Jiang**, Xiangchen Song, Jieyu Zhang, Jiawei Han.\
 In The 33rd International Conference in the Web (*WWW'2022*).
 
 # 2021
 
-* Simulating Online Social Response: a Stimulus/response Perspective. [[paper]](https://www.cs.rpi.edu/~szymansk/papers/WSC_SocialSystems-4.13.pdf)\
+* [Simulating Online Social Response: a Stimulus/response Perspective](https://www.cs.rpi.edu/~szymansk/papers/WSC_SocialSystems-4.13.pdf)\
 Huajie Shao, Tarek Abdelzaher, Sam Cohen, James Flamino, Jiawei Han, **Minhao Jiang**, et al.\
 In 2021 Winter Simulation Conference (*WSC'2021*).
