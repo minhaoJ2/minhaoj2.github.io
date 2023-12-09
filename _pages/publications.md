@@ -7,7 +7,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4ncr6IwI5KoJbOBk1XKphtF7puaBPmcg-6M1Ik8VjaNl9Bg8uk4T_hONUaN_lEWGAjFfFwZkUA7sAmWOD_iy-YcyAzow&user=Qzm-cLIAAAAJ)
 # 2023
 
-* [Reaction Miner: An Integrated System for Chemical Reaction Extraction from Textual Data]() (System Demonstration)\
+* [Reaction Miner: An Integrated System for Chemical Reaction Extraction from Textual Data](https://aclanthology.org/2023.emnlp-demo.36/) (System Demonstration)\
 Ming Zhong, Siru Ouyang, Yizhu Jiao, Priyanka Kargupta, Leo Luo, Yanzhen Shen, Bobby Zhou, Xianrui Zhong, Xuan Liu, Hongxiang Li, Jinfeng Xiao, **Minhao Jiang**, Vivian Hu, Xuan Wang, Heng Ji, Martin Burke, Huimin Zhao and Jiawei Han.\
 In the Conference on Empirical Methods in Natural Language Processing (*EMNLP'2023*)
 * [PIEClass: Weakly-Supervised Text Classification with Prompting and Noise-Robust Iterative Ensemble Training](https://arxiv.org/abs/2305.13723) \
