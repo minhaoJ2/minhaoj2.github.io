@@ -7,7 +7,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4ncr6IwI5KoJbOBk1XKphtF7puaBPmcg-6M1Ik8VjaNl9Bg8uk4T_hONUaN_lEWGAjFfFwZkUA7sAmWOD_iy-YcyAzow&user=Qzm-cLIAAAAJ)
 # 2024
 
-* [Investigating Data Contamination for Pre-training Language Models]()\
+* [Investigating Data Contamination for Pre-training Language Models](https://arxiv.org/abs/2401.06059)\
 **Minhao Jiang**, Ken Ziyu Liu, Ming Zhong, Rylan Schaeffer, Siru Ouyang, Jiawei Han, Sanmi Koyejo.\
 *Preprint*
 * [Geospatial Topological Relation Extraction from Text with Knowledge Augmentation]()\
