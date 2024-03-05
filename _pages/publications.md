@@ -9,7 +9,7 @@ author_profile: true
 
 * [Investigating Data Contamination for Pre-training Language Models](https://arxiv.org/abs/2401.06059)\
 **Minhao Jiang**, Ken Ziyu Liu, Ming Zhong, Rylan Schaeffer, Siru Ouyang, Jiawei Han, Sanmi Koyejo.\
-*Preprint*
+Presenting at ME-FoMo, DPFM, and R2-FM Workshops at ICLR 2024.
 * [Geospatial Topological Relation Extraction from Text with Knowledge Augmentation]()\
 Wei Hu, Bowen Jin, **Minhao Jiang**, Sizhe Zhou, Zhaonan Wang, Jiawei Han, Shaowen Wang.\
 In SIAM International Conference on Data Mining (*SDM’2024*)
