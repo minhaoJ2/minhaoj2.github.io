@@ -26,6 +26,7 @@ Honors & Awards
 
 News
 ======
+* **[2024.5]** Our [paper](https://arxiv.org/abs/2401.06059) won the Best Paper Award at DPFM@ICLR 2024!! One paper was accepted by KDD 2024.
 * **[2024.2]** Our paper on [data contamination](https://arxiv.org/abs/2401.06059) has been accepted by ME-FoMo, DPFM, R2-FM workshops@ICLR 2024! One paper was accepted by SDM 2024.
 * **[2023.10]** Two papers were accepted by EMNLP 2023 and one paper was accepted by SIGSPATIAL 2023.
 * **[2023.5]** One paper was accepted by ACL 2023.
