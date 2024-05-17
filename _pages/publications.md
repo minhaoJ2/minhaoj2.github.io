@@ -6,10 +6,13 @@ author_profile: true
 ---
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4ncr6IwI5KoJbOBk1XKphtF7puaBPmcg-6M1Ik8VjaNl9Bg8uk4T_hONUaN_lEWGAjFfFwZkUA7sAmWOD_iy-YcyAzow&user=Qzm-cLIAAAAJ)
 # 2024
-
+* [OntoType: Ontology-Guided and Pre-Trained Language Model Assisted Fine-Grained Entity Typing](https://arxiv.org/abs/2305.12307)\
+Tanay Komarlu, **Minhao Jiang**, Xuan Wang, Jiawei Han.\
+In 2024 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD'2024*)
 * [Investigating Data Contamination for Pre-training Language Models](https://arxiv.org/abs/2401.06059)\
 **Minhao Jiang**, Ken Ziyu Liu, Ming Zhong, Rylan Schaeffer, Siru Ouyang, Jiawei Han, Sanmi Koyejo.\
-A shorter version was accepted by (*ME-FoMo, DPFM, and R2-FM Workshops@ICLR 2024*)
+A shorter version was accepted by (*ME-FoMo, DPFM, and R2-FM Workshops@ICLR 2024*)\
+Best Paper Award at DPFM@ICLR 2024
 * [Geospatial Topological Relation Extraction from Text with Knowledge Augmentation]()\
 Wei Hu, Bowen Jin, **Minhao Jiang**, Sizhe Zhou, Zhaonan Wang, Jiawei Han, Shaowen Wang.\
 In SIAM International Conference on Data Mining (*SDM’2024*)
@@ -25,9 +28,6 @@ In the Conference on Empirical Methods in Natural Language Processing (*EMNLP'20
 * [Geospatial Knowledge Hypercube]() (Demo Paper)\
 Zhaonan Wang, Bowen Jin, Wei Hu, **Minhao Jiang**, Seungyeon Kang, Zhiyuan Li, Sizhe Zhou, Jiawei Han, and Shaowen Wang.\
 In 31st ACM International Conference on Advances in Geographic Information Systems (*SIGSPATIAL'2023*)
-* [OntoType: Ontology-Guided and Pre-Trained Language Model Assisted Fine-Grained Entity Typing](https://arxiv.org/abs/2305.12307)\
-Tanay Komarlu, **Minhao Jiang**, Xuan Wang, Jiawei Han.\
-*Preprint*
 * [ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision](https://arxiv.org/abs/2307.01448)\
 Ming Zhong, Siru Ouyang, **Minhao Jiang**, Vivian Hu, Yizhu Jiao, Xuan Wang and Jiawei Han.\
 In Findings of The 61st Annual Meeting of the Association for Computational Linguistics (*ACL'2023 Findings*)
