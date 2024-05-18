@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year M.S. student in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/) working in [Data Mining Group (DMG)](http://dm1.cs.uiuc.edu/) advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). I obtained my B.S. with a dual degree in Computer Science and Mathematics at UIUC.
+I obtained my M.S. degree in Computer Science, and B.S. with a dual degree in Computer Science and Mathematics at [University of Illinois at Urbana-Champaign](https://illinois.edu/) in [Data Mining Group (DMG)](http://dm1.cs.uiuc.edu/), where I was fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
 
-My current research area is in **Machine Learning** and **Natural Language Processing**. And my exploration interests lie in the intersections of general **Machine Learning theory**, **Data Mining** and **Deep Learning**.
+My current research area is in **Trustworthy Machine Learning** and **AI For Science**. My exploration interests lie in the intersections of general **Natural Language Processing**, **Large Language Models**, and **Deep Learning**.
 
 Academic Services
 ======
-* Conference Reviewer: EMNLP 2022-2023, ACL 2023, KDD 2023, SDM 2024.
-* Workshop Reviewer: AdvML-Frontiers@ICML 2023.
+* Conference Reviewer: EMNLP 2022-2023, ACL 2023, KDD 2023, SDM 2024, COLM 2024.
+* Workshop Reviewer: AdvML-Frontiers@ICML 2023, DPFM@ICLR 2024.
 
 Honors & Awards
 ======
+* Best Paper Award of DPFM@ICLR 2024, 2024, Vienna, Austria
 * Tan Family Education Foundation Scholarship, 2021-2022, UIUC
 * Jefferey P. Blahut Memorial Scholarship, 2021-2022, UIUC
 * Yunni and Maxine Pao Memorial Scholarship, 2021-2022, UIUC
