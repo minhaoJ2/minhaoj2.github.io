@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my M.S. degree in Computer Science, and B.S. with a dual degree in Computer Science and Mathematics at [University of Illinois at Urbana-Champaign](https://illinois.edu/) in [Data Mining Group (DMG)](http://dm1.cs.uiuc.edu/), where I was fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
+I'm currently an AI Scientist at [GE Healthcare](https://www.gehealthcare.com/), working on Large Language Models (LLMs) for healthcare applications. I obtained my M.S. degree in Computer Science, and B.S. with a dual degree in Computer Science and Mathematics at [University of Illinois at Urbana-Champaign](https://illinois.edu/) in [Data Mining Group (DMG)](http://dm1.cs.uiuc.edu/), where I was fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
 
 My current research area is in **Trustworthy Machine Learning** and **AI For Science**. My exploration interests lie in the intersections of general **Natural Language Processing**, **Large Language Models**, and **Deep Learning**.
 
 Academic Services
 ======
-* Conference Reviewer: EMNLP 2022-2023, ACL 2023, KDD 2023, SDM 2024, COLM 2024.
+* Conference Reviewer: EMNLP 2022-2023, ACL 2023-2024, KDD 2023-2024, SDM 2024, COLM 2024, NeurIPS 2024.
 * Workshop Reviewer: AdvML-Frontiers@ICML 2023, DPFM@ICLR 2024.
 
 Honors & Awards
