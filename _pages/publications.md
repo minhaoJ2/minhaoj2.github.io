@@ -6,6 +6,10 @@ author_profile: true
 ---
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4ncr6IwI5KoJbOBk1XKphtF7puaBPmcg-6M1Ik8VjaNl9Bg8uk4T_hONUaN_lEWGAjFfFwZkUA7sAmWOD_iy-YcyAzow&user=Qzm-cLIAAAAJ)
 # 2024
+
+* [Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation]()\
+Siru Ouyang, Shuohang Wang, **Minhao Jiang**, Ming Zhong, Donghan Yu, Jiawei Han, Yelong Shen.\
+In the Conference on Empirical Methods in Natural Language Processing (*EMNLP'2024 Findings*)
 * [OntoType: Ontology-Guided and Pre-Trained Language Model Assisted Fine-Grained Entity Typing](https://arxiv.org/abs/2305.12307)\
 Tanay Komarlu, **Minhao Jiang**, Xuan Wang, Jiawei Han.\
 In 2024 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD'2024*)
