@@ -14,7 +14,7 @@ My current research area is in **Trustworthy Machine Learning** and **AI For Sci
 
 Academic Services
 ======
-* Conference Reviewer: EMNLP 2022-2023, ACL 2023-2024, KDD 2023-2024, SDM 2024, COLM 2024, NeurIPS 2024.
+* Conference Reviewer: EMNLP 2022-2024, ACL 2023-2024, KDD 2023-2025, SDM 2024, COLM 2024, NeurIPS 2024, ICLR 2025.
 * Workshop Reviewer: AdvML-Frontiers@ICML 2023, DPFM@ICLR 2024.
 
 Honors & Awards
