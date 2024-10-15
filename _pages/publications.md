@@ -10,7 +10,7 @@ author_profile: true
 * [Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval](https://arxiv.org/abs/2410.04585)\
 Pengcheng Jiang, Cao Xiao, **Minhao Jiang**, Parminder Bhatia, Taha Kass-Hout, Jimeng Sun, Jiawei Han. \
 *Preprint*
-* [Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation]()\
+* [Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation](https://arxiv.org/abs/2410.10141)\
 Siru Ouyang, Shuohang Wang, **Minhao Jiang**, Ming Zhong, Donghan Yu, Jiawei Han, Yelong Shen.\
 In the Conference on Empirical Methods in Natural Language Processing (*EMNLP'2024 Findings*)
 * [OntoType: Ontology-Guided and Pre-Trained Language Model Assisted Fine-Grained Entity Typing](https://arxiv.org/abs/2305.12307)\
