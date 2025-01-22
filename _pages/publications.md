@@ -5,11 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4ncr6IwI5KoJbOBk1XKphtF7puaBPmcg-6M1Ik8VjaNl9Bg8uk4T_hONUaN_lEWGAjFfFwZkUA7sAmWOD_iy-YcyAzow&user=Qzm-cLIAAAAJ)
-# 2024
+# 2025
 
 * [Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval](https://arxiv.org/abs/2410.04585)\
 Pengcheng Jiang, Cao Xiao, **Minhao Jiang**, Parminder Bhatia, Taha Kass-Hout, Jimeng Sun, Jiawei Han. \
-*Preprint*
+In The Thirteenth International Conference on Learning Representations (*ICLR'2025*)
+
+# 2024
+
 * [Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation](https://arxiv.org/abs/2410.10141)\
 Siru Ouyang, Shuohang Wang, **Minhao Jiang**, Ming Zhong, Donghan Yu, Jiawei Han, Yelong Shen.\
 In the Conference on Empirical Methods in Natural Language Processing (*EMNLP'2024 Findings*)
