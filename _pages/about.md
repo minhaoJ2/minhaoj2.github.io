@@ -14,7 +14,7 @@ My current research area is in **Trustworthy Machine Learning** and **AI For Sci
 
 Academic Services
 ======
-* Conference Reviewer: EMNLP 2022-2024, ACL 2023-2024, KDD 2023-2025, SDM 2024, COLM 2024, NeurIPS 2024, ICLR 2025.
+* Conference Reviewer: EMNLP 2022-2024, ACL 2023-2024, KDD 2023-2025, SDM 2024, COLM 2024-2025, NeurIPS 2024, ICLR 2025, ICML 2025.
 * Workshop Reviewer: AdvML-Frontiers@ICML 2023, DPFM@ICLR 2024.
 
 Honors & Awards
@@ -27,7 +27,8 @@ Honors & Awards
 
 News
 ======
-* **[2024.10]** One paper was accepted by EMNLP 2024! Also check out our recent [preprint](https://arxiv.org/abs/2410.04585) on healthcare prediction with LLMs 
+* **[2025.1]** One [paper](https://arxiv.org/abs/2410.04585) was accepted by ICLR 2025.
+* **[2024.10]** One paper was accepted by EMNLP 2024! Also check out our recent [preprint](https://arxiv.org/abs/2410.04585) on healthcare prediction with LLMs.
 * **[2024.5]** Our [paper](https://arxiv.org/abs/2401.06059) won the Best Paper Award at DPFM@ICLR 2024!! One paper was accepted by KDD 2024.
 * **[2024.2]** Our paper on [data contamination](https://arxiv.org/abs/2401.06059) has been accepted by ME-FoMo, DPFM, R2-FM workshops@ICLR 2024! One paper was accepted by SDM 2024.
 * **[2023.10]** Two papers were accepted by EMNLP 2023 and one paper was accepted by SIGSPATIAL 2023.
