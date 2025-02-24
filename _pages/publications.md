@@ -7,6 +7,9 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4ncr6IwI5KoJbOBk1XKphtF7puaBPmcg-6M1Ik8VjaNl9Bg8uk4T_hONUaN_lEWGAjFfFwZkUA7sAmWOD_iy-YcyAzow&user=Qzm-cLIAAAAJ)
 # 2025
 
+* [RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation](https://arxiv.org/abs/2502.10996)\
+Pengcheng Jiang, Lang Cao, Ruike Zhu, **Minhao Jiang**, Yunyi Zhang, Jimeng Sun, Jiawei Han. \
+*Preprint*
 * [Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval](https://arxiv.org/abs/2410.04585)\
 Pengcheng Jiang, Cao Xiao, **Minhao Jiang**, Parminder Bhatia, Taha Kass-Hout, Jimeng Sun, Jiawei Han. \
 In The Thirteenth International Conference on Learning Representations (*ICLR'2025*)
